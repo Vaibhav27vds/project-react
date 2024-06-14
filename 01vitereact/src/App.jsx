@@ -1,7 +1,14 @@
+import Button from "./Button"
+
 function App() {
 
+  const username = "Vaibhav"
+
   return (
-    <h1>React Project with vite | VDS </h1>
+    <>
+    <h1>Hello {username}</h1>
+    <Button/>
+    </>
   )
 }
 
