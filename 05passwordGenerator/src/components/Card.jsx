@@ -91,10 +91,6 @@ const Card = () => {
             />
             <h1 className='mt-3 ml-3 text-white '>Special Characters</h1>
             </div>            
-            <button
-            className='text-white'
-            onClick={passwordGenerator}
-            >click</button>
         </div>
     </div>
     </>
